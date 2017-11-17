@@ -486,7 +486,7 @@ p, ul.text-list {
 }
 .section--head {
   margin: 0;
-  background: #EEE;
+  background: black;
   /*background: linear-gradient(180deg, #eee 0%,#fff 100%);*/
 
 }
